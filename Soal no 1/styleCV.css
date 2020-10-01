@@ -1,0 +1,112 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: Arial;  
+}
+body{
+    background-color: #585c68;
+    font-size: 14px;
+    line-height: 22px;
+    color: #000000;
+}
+.bold{
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.container{
+    margin: 50px auto;
+    height: auto;
+    width: 100%;   
+   
+}
+.left{
+  
+    background-color: rgb(204, 197, 197);
+    width: 230px;
+    height: 918px;
+    position: absolute;
+    margin-left: 650px;
+    justify-content: center ;
+}
+.img img{
+    width: 150px;
+    height: 180px;  
+    border-radius: 12px;
+    margin-bottom: 18px;
+    margin-left: 40px;
+    margin-top: 28px; 
+}
+.content{
+    padding: 0 25px;
+}
+.title{
+    margin-top: 25px;
+}
+.regular{
+    color: #000000;
+    font-size: 14px;
+}
+ .right{
+    width: 550px;
+    height: 918px;
+    background: #ffffff;
+    padding: 15px;
+    margin-left: 880px;
+    position: absolute;
+    justify-content: center; 
+ }
+ .right .bold{
+     color: coral;
+ }
+ .name{
+    padding-inline-start: 15px;
+    border-bottom: 2px  solid #d1d6d8;
+ }
+.boldd{
+    font-size: 35px;
+    color: coral;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+.regularr{
+    color: coral;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+ .name .nm{
+    font-size: 20px;
+ }
+ .profile{
+     padding: 15px;
+     border-bottom: 2px  solid   #d1d6d8;
+     margin-top: -20px;
+ }
+ .je{
+     padding: 15px;
+     border-bottom: 2px  solid   #d1d6d8;
+ }
+ .edu{
+     padding: 15px;
+     border-bottom: 2px  solid  #d1d6d8;
+ }
+ .hob{
+     padding: 15px;
+     border-bottom: 2px  solid  #d1d6d8;
+ }
+ .skills{
+    margin-left: 15px;
+    margin-bottom: 35px;
+ }
+ .Personality{
+  margin-left: 15px;
+  margin-bottom: 35px;
+ }
+ .Contact{
+     margin-bottom: 35px;
+ }
+ .Sosmed{
+     margin-bottom: 35px;
+ }
